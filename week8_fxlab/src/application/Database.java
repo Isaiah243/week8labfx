@@ -1,6 +1,6 @@
 CREATE DATABASE week9_LabWork_isaiah;
 
-USE week9_LabWork_yourName;
+USE week9_LabWork_isaiah;
 
 CREATE TABLE EmploymentForm (
     id INT AUTO_INCREMENT PRIMARY KEY,
